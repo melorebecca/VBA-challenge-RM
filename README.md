@@ -18,8 +18,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock market analyst
 
-![stock Market]
-
 ## Instructions
 
 * Create a script that will loop through all the stocks for one year and output the following information.
